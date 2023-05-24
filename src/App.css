@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+
+
+footer {
+/* padding: 5px 5px; */
+bottom: 0;
+width: 100%;
+/* Height of the footer*/
+/* height: 100px; */
+/* background: grey; */
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
