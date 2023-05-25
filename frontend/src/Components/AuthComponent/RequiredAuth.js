@@ -5,7 +5,7 @@ import { Navigate, useLocation } from "react-router-dom";
 function RequiredAuth({ children }) {
   const location = useLocation();
   const auth = useAuth();
-  if (!window.localStorage.getItem("logining")) {
+  if (!auth.isLoggedIn) {
     return <Navigate to="/login" state={{ path: location.pathname }} />;
   }
   return children;

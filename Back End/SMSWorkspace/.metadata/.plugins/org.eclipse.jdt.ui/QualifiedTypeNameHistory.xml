@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.smsservice.Utils.JwtUtils"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestHeader"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.web.servlet.error.ErrorController"/>
 </qualifiedTypeNameHistroy>

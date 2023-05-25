@@ -29,8 +29,8 @@ function ViewStudent() {
         setEmailDataForId(respons);
         setTimeout(() => {
           // setIsLoading(false);
-          console.log(respons.response.data);
-          toast.info(respons.response.data, {
+          console.log(respons);
+          toast.info(respons, {
             position: toast.POSITION.TOP_RIGHT,
           });
           navigate("/services/emailservice");

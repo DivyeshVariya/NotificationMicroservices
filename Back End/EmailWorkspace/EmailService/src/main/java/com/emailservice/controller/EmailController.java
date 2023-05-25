@@ -2,6 +2,7 @@ package com.emailservice.controller;
 
 import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -19,7 +20,7 @@ import com.emailservice.service.EmailService;
 @RestController
 @RequestMapping("/email")
 @CrossOrigin("http://localhost:3000/")
-public class EmailController {
+public class EmailController implements ErrorController{
 
 	
 	@Autowired
@@ -61,7 +62,14 @@ public class EmailController {
 			return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Failed to sent "+to+"... Due to "+exc.getMessage());
 		}
 		
+		
 	}
+	
+	@RequestMapping("/error")
+	public String showMSg() {
+		return "<center><h1 style=\"color:red;\">Unauthorized Access!</h1></center>";
+	}
+	
 }
 
 

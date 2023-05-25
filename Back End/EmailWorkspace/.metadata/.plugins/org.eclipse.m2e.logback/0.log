@@ -852,3 +852,120 @@
 2023-05-23 13:45:41,394 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-05-23 13:45:41,398 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
 2023-05-23 13:47:05,865 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-24 15:54:05,189 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-24 15:54:37,179 [Worker-0: Launching EmailService - EmailServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-24 15:54:37,215 [Worker-0: Launching EmailService - EmailServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 15:54:37,219 [Worker-0: Launching EmailService - EmailServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:30:56,143 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:30:56,150 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:30:56,156 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:42:30,755 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:42:31,067 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:42:31,072 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:42:45,292 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:42:45,299 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:42:45,302 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:43:23,398 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:43:23,417 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:43:23,422 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:43:43,846 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:43:43,847 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:43:43,851 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:45:52,423 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:45:52,441 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:45:52,448 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:46:48,042 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:46:48,056 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:46:48,062 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:47:00,796 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [345])
+2023-05-25 11:47:00,966 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-05-25 11:47:00,967 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-25 11:47:00,967 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-05-25 11:47:00,969 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-05-25 11:47:00,969 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-05-25 11:47:00,969 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-05-25 11:47:00,970 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-05-25 11:47:00,970 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-05-25 11:47:00,971 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-05-25 11:47:00,971 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-05-25 11:47:00,972 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-05-25 11:47:00,973 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-05-25 11:47:00,973 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-25 11:47:00,973 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-05-25 11:47:00,973 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-05-25 11:47:00,974 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-05-25 11:47:00,974 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-25 11:47:00,974 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-05-25 11:47:00,974 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-05-25 11:47:00,975 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-05-25 11:47:00,975 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-05-25 11:47:00,975 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-05-25 11:47:00,976 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-05-25 11:47:00,976 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-25 11:47:00,976 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-25 11:47:00,977 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-05-25 11:47:00,977 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-05-25 11:47:00,977 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-05-25 11:47:00,977 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-05-25 11:47:00,977 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-05-25 11:47:00,978 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-25 11:47:00,979 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-05-25 11:47:00,979 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-05-25 11:47:00,979 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-05-25 11:47:00,981 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [22])
+2023-05-25 11:47:00,983 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-05-25 11:47:00,983 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [584])
+2023-05-25 11:47:00,984 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-05-25 11:47:00,984 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [49])
+2023-05-25 11:47:01,107 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-25 11:47:01,108 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [47])
+2023-05-25 11:47:01,261 [Worker-48: Launching EmailService (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Digital\sts-4.17.1.RELEASE\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-05-25 11:47:01,266 [Worker-48: Launching EmailService (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService":
+2023-05-25 11:47:01,267 [Worker-48: Launching EmailService (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always build
+2023-05-25 11:47:19,234 [Worker-50: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService":
+2023-05-25 11:47:19,234 [Worker-50: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-05-25 11:47:50,441 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:47:50,442 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:47:50,448 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:48:40,198 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:48:40,202 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:48:40,205 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:48:47,017 [Worker-50: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService":
+2023-05-25 11:48:47,017 [Worker-50: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-05-25 11:49:02,265 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:49:02,265 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:49:02,267 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:49:29,495 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:49:29,496 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:49:29,497 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:49:44,199 [Worker-53: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService":
+2023-05-25 11:49:44,199 [Worker-53: Launching Executing install in C__Users_158563_OneDrive - Arrow Electronics, Inc_Documents_Final Project_Back End_EmailWorkspace_EmailService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-05-25 11:50:01,720 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:50:01,720 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:50:01,722 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:51:42,069 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:51:42,091 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:51:42,096 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:52:30,980 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:52:30,991 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:52:30,994 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:52:42,137 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:52:42,143 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:52:42,146 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:52:49,379 [Worker-2: Launching EmailService (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService":
+2023-05-25 11:52:49,379 [Worker-2: Launching EmailService (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always compile
+2023-05-25 11:54:28,419 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:54:28,431 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:54:28,435 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:57:27,414 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:57:27,423 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:57:27,428 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 11:57:52,763 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 11:57:52,773 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:57:52,777 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\158563\OneDrive - Arrow Electronics, Inc\Documents\Final Project\Back End\EmailWorkspace\EmailService\src\test\resources
+2023-05-25 12:28:34,011 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -3,6 +3,7 @@ package com.smsservice.controller;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -23,7 +24,7 @@ import com.twilio.type.PhoneNumberPrice;
 
 @RestController
 @RequestMapping("/sms")
-public class SMSController {
+public class SMSController implements ErrorController{
 	
 	@Autowired
 	SMSService smsservice;
@@ -58,4 +59,10 @@ public class SMSController {
 			return ResponseEntity.status(HttpStatus.NOT_FOUND).body(" Error ! Failed to "+smsto+" sent... Due to Not "+exe.getMessage());
 		}
 	}
+	
+	@RequestMapping("/error")
+	public String showMSg() {
+		return "<center><h1 style=\"color:red;\">Unauthorized Access!</h1></center>";
+	}
+
 }

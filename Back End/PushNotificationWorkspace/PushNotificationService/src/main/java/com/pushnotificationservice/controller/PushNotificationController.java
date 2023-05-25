@@ -3,6 +3,7 @@ package com.pushnotificationservice.controller;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,7 +18,7 @@ import com.pushnotificationservice.service.PushNotificationService;
 
 @RestController
 @RequestMapping("/pushnotification")
-public class PushNotificationController {
+public class PushNotificationController implements ErrorController{
 
 	@Autowired
 	PushNotificationService pushnotificationservice;
@@ -56,4 +57,10 @@ public class PushNotificationController {
 		}
 
 	}
+	
+	@RequestMapping("/error")
+	public String showMSg() {
+		return "<center><h1 style=\"color:red;\">Unauthorized Access!</h1></center>";
+	}
+
 }
